@@ -1,4 +1,4 @@
-﻿<#
+<#
 .synopsis
 Author: Gideon Naude CoEx
 .Description
