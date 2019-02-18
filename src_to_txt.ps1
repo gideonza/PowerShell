@@ -1,9 +1,8 @@
-<#
-.synopsis
-Author: Gideon Naude CoEx
-.Description
-This script will add a .txt extention to all .src file in a folder
-#>
+# .synopsis
+# Author: Gideon Naude CoEx
+# .Description
+# This script will add a .txt extention to all .src file in a folder
+#
 
 param (
     [parameter(mandatory=$true)] [String] $path
